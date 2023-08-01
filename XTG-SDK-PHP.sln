@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "XTG-SDK-PHP", "XTG-SDK-PHP.phpproj", "{52FB3C19-9043-4A76-A990-B2A760DD1FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52FB3C19-9043-4A76-A990-B2A760DD1FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FB3C19-9043-4A76-A990-B2A760DD1FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D0681BE-63E0-4C64-8178-40CF6760193E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+{
+    "name": "hoteleus/xtg",
+    "description": "SDK para PHP de XTG",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Hoteleus",
+            "email": "dev@hoteleus.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Hoteleus\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "7.4"
+    }
+}
